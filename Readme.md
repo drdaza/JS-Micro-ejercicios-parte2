@@ -1,10 +1,10 @@
-### JS - Micro ejercicios (Parte 2)
+# JS - Micro ejercicios (Parte 2)
 
 ## Description of the exersises
 
 Ejercicio 1:
 Crea un programa que pida el nombre de usuario y la edad y si es mayor de 18 indica que puede conducir.
-#
+###
 Ejercicio 2: 
 Calcula la letra del DNI (Documento nacional de identidad).
 El algoritmo para calcular la letra del dni es el siguiente :
@@ -16,4 +16,4 @@ Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
 
 ## tecnologies i used
 
-[![My Skills](https://skillicons.dev/icons?i=js,html)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,jest)]()
